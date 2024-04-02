@@ -205,3 +205,17 @@ p {
     }
 
 }
+
+@media screen and (max-width:400px) {
+    .card-left {
+        width: 350px;
+    }
+
+    .card-right {
+        width: 350px;
+    }
+    
+    .card-middle {
+        width: 350px;
+    }
+}
